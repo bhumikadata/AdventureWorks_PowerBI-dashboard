@@ -1,6 +1,6 @@
 
 
-# Adventure Works Analytics: KPIs Tracking, Customer Insights, and Regional Comaprison
+# Adventure Works Analytics: Customers and Products Comprehensive Analysis
 
 ### Dashboard link : 
 https://app.powerbi.com/links/gBrSg13PNV?ctid=d35a9210-1733-4d73-879a-2f8d7acd13a8&pbi_source=linkShare
