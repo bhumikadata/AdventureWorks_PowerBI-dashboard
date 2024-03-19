@@ -3,7 +3,8 @@
 # Adventure Works Analytics: Customers and Products Comprehensive Analysis
 
 ### Dashboard link : 
-https://app.powerbi.com/reportEmbed?reportId=53c50842-2860-4b29-8946-26cb14105dcc&autoAuth=true&ctid=d35a9210-1733-4d73-879a-2f8d7acd13a8
+https://app.powerbi.com/view?r=eyJrIjoiM2U5ZWU1ZmMtYzg2Ni00YWU3LTgyYjMtNGIwNWU4NzAwZGNiIiwidCI6ImQzNWE5MjEwLTE3MzMtNGQ3My04NzlhLTJmOGQ3YWNkMTNhOCJ9
+
 ### Project Breif
 
 This Dashboard is for a hypothectical company Adventure Works, a global manufacturing company that produces cycling equipments and accessories. Let's assume that the management team needs a way to track KPLs(sales, revenue, profir,returns), comapare regional performance, analyze product-level trends and identify high value customers.
