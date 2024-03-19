@@ -3,7 +3,7 @@
 # Adventure Works Analytics: Customers and Products Comprehensive Analysis
 
 ### Dashboard link : 
-https://app.powerbi.com/links/gBrSg13PNV?ctid=d35a9210-1733-4d73-879a-2f8d7acd13a8&pbi_source=linkShare
+https://app.powerbi.com/reportEmbed?reportId=53c50842-2860-4b29-8946-26cb14105dcc&autoAuth=true&ctid=d35a9210-1733-4d73-879a-2f8d7acd13a8
 
 ### Project Breif
 
