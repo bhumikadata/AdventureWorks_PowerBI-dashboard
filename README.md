@@ -4,7 +4,6 @@
 
 ### Dashboard link : 
 https://app.powerbi.com/reportEmbed?reportId=53c50842-2860-4b29-8946-26cb14105dcc&autoAuth=true&ctid=d35a9210-1733-4d73-879a-2f8d7acd13a8
-
 ### Project Breif
 
 This Dashboard is for a hypothectical company Adventure Works, a global manufacturing company that produces cycling equipments and accessories. Let's assume that the management team needs a way to track KPLs(sales, revenue, profir,returns), comapare regional performance, analyze product-level trends and identify high value customers.
